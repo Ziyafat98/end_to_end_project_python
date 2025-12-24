@@ -13,3 +13,4 @@ requests-cache
 retry_requests
 sqlalchemy
 dotenv
+dotenv
