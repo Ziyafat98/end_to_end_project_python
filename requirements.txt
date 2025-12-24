@@ -1,0 +1,13 @@
+numpy
+matplotlib
+pandas
+seaborn
+Pillow
+statsmodels
+plotly
+scipy
+ipywidgets
+nbformat
+openmeteo-requests
+requests-cache 
+retry_requests
