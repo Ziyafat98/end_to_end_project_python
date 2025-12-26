@@ -16,3 +16,4 @@ dotenv
 dotenv
 pymysql
 cryptography
+sklearn
