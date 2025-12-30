@@ -13,8 +13,8 @@ requests-cache
 retry_requests
 sqlalchemy
 dotenv
-dotenv
 pymysql
 cryptography
 scipy
 scikit-learn
+streamlit
